@@ -1,7 +1,7 @@
 ## Hi there, I'm Rauny Lima, development student!
 
 
-![Rauny GitHub stats](https://github-readme-stats.vercel.app/api?username=raunygl&show_icons=true&theme=transparent)
+![Rauny GitHub stats](https://github-readme-stats.vercel.app/api?username=raunygl&show_icons=true&theme=dark)
 
 ## Tecnologias que eu estou utilizando atualmente
 
