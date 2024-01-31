@@ -13,7 +13,10 @@
   <img align="center" alt="Raw-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"">
   <img align="center" alt="Raw-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Raw-CSS" height="30" width="40" 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">          
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
   </div>
   
   ##
