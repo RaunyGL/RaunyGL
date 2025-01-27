@@ -1,4 +1,4 @@
-## Hi there, I'm Rauny Lima, development student!
+## Hi there, I'm Rauny Lima!
 
 
 ![Rauny GitHub stats](https://github-readme-stats.vercel.app/api?username=raunygl&show_icons=true&theme=dark)
